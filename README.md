@@ -14,3 +14,5 @@ To get started, follow these steps:
 2. **Start the Application**: Use `npm start` to start the application.
 
 Let's dive into the world of **RESTful APIs** together!
+
+Note: The Completed-Backend directory is for refrence. It is what the backend should look like when completed
